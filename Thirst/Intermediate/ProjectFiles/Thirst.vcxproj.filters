@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Thirst.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{EDE6241A-12B3-4C0B-A739-A8EA1E982144}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Thirst.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ThirstEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{16A47CB1-45C8-411C-8BAE-83A4D2064655}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Thirst">
+      <UniqueIdentifier>{EDBF9769-D8E1-45B6-A68A-6341B1EB5A2A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Thirst\Frog.cpp">
+      <Filter>Source\Thirst</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Thirst\Frog.h">
+      <Filter>Source\Thirst</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Thirst\Thirst.Build.cs">
+      <Filter>Source\Thirst</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Thirst\Thirst.cpp">
+      <Filter>Source\Thirst</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Thirst\Thirst.h">
+      <Filter>Source\Thirst</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Thirst\PaperFrog.h">
+      <Filter>Source\Thirst</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Thirst\PaperFrog.cpp">
+      <Filter>Source\Thirst</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
