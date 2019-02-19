@@ -1,3 +1,0 @@
-C:\Users\elwin\Documents\School\CMSC_493\Thirst\Thirst\Source\Thirst\Thirst.Build.cs
-C:\Users\elwin\Documents\School\CMSC_493\Thirst\Thirst\Source\Thirst.Target.cs
-C:\Users\elwin\Documents\School\CMSC_493\Thirst\Thirst\Source\ThirstEditor.Target.cs
